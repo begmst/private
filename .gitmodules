@@ -1,0 +1,3 @@
+[submodule "public_repo"]
+	path = public_repo
+	url = git@github.com:begmst/public.git
